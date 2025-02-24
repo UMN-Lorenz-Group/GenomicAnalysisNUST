@@ -1,5 +1,4 @@
 ################################################################################
-### Empirical Validation - Phenotypic analysis
 ###
 ### This script will run statistical analyses of the phenotypic data from the
 ### Northern Uniform Soybean Tests (1993-2020) in three steps:
