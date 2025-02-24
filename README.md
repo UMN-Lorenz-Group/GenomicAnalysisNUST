@@ -2,7 +2,7 @@
 Genomic analysis and prediction within the Northern Uniform Soybean Tests
 
 ### Description
-This repository contains information and code for replicating the analyzes performed in the published article
+This repository contains information and code for replicating the analyzes performed in the manuscript below
 
 Manuscript title: "Genomic analysis and prediction within the Northern Uniform Soybean Tests" (CROP-2024-11-0815-OA)
 
